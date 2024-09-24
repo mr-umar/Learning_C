@@ -6,6 +6,7 @@ Vars, expressions and iterations
 
 #include <stdio.h>
 
+
 // prints fah-cel table
 
 main(){
